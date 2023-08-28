@@ -1,0 +1,10 @@
+{
+  "name": "title.wma",
+  "description": "music from the Windows XP installer",
+  "author": "cadecomposer",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
